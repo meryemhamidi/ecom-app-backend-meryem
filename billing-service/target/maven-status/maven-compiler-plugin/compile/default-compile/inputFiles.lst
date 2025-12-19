@@ -1,0 +1,11 @@
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\entities\Bill.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\entities\BillProjection.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\entities\ProductItem.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\feign\CustomerRestClient.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\feign\ProductRestClient.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\model\Customer.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\model\Product.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\repository\BillRepository.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\repository\ProductItemRepository.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\billingservice\web\BillRestController.java
+D:\J2EE meryem\ecom-app-backend-meryem\billing-service\src\main\java\ma\hamidi\BillingServiceApplication.java
